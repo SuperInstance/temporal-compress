@@ -1,0 +1,9 @@
+[package]
+name = "temporal-compress"
+version = "0.1.0"
+edition = "2021"
+description = "Logarithmic time compression for cognitive event timelines"
+license = "MIT"
+repository = "https://github.com/SuperInstance/temporal-compress"
+
+[dependencies]
